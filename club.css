@@ -1,0 +1,44 @@
+
+body {
+  background-color: #eef5f8
+}
+.mergin_all{
+  width: 50%;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 8px;
+  background-color: #ffffff;
+  border-radius: 2%;
+  padding: 16px;
+}
+.right{
+
+  text-align: right;
+
+}
+.header{
+  background-color: #e7e5fd
+}
+.h1{
+  color: #3b8674;
+  font-size: 32px;
+}
+.name{
+  color: #3b8674;
+  font-size: 32px;
+}
+.s{
+  color: #441133;
+  font-size: 16px;
+  line-height: 2px;
+}
+.name2{
+  margin-top: 6px;
+  margin-bottom: 6px;
+  font-size:28px;
+  font-weight: 250;
+}
+.red{
+  color: #aa2233;
+}
